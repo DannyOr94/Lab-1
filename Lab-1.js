@@ -1,4 +1,4 @@
-// Lab-1
+// Lab-1.
 
 // pregunta 1
 //Cual es el resultado de la siguiente operacion?
